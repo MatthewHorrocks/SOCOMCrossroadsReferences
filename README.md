@@ -48,64 +48,64 @@ References to all buildings/blocking of the SOCOM map, Crossroads.
 ![G4](Images/G4.PNG)
 
 # G5
-![G5](Images/G5.png)
+![G5](Images/G5.PNG)
 
 # G6
-![G6](Images/G6.png)
+![G6](Images/G6.PNG)
 
 # G7
-![G7](Images/G7.png)
+![G7](Images/G7.PNG)
 
 # G8
-![G8](Images/G8.png)
+![G8](Images/G8.PNG)
 
 # G9
-![G9](Images/G9.png)
+![G9](Images/G9.PNG)
 
 # G10
-![G10](Images/G10.png)
+![G10](Images/G10.PNG)
 
 # G11
-![G11](Images/G11.png)
+![G11](Images/G11.PNG)
 
 # G12
-![G12](Images/G12.png)
+![G12](Images/G12.PNG)
 
 # G13
-![G13](Images/G13.png)
+![G13](Images/G13.PNG)
 
 # G14
-![G14](Images/G14.png)
+![G14](Images/G14.PNG)
 
 # G15
-![G15](Images/G15.png)
+![G15](Images/G15.PNG)
 
 # G16
-![G16](Images/G16.png)
+![G16](Images/G16.PNG)
 
 # G17
-![G17](Images/G17.png)
+![G17](Images/G17.PNG)
 
 # G18
-![G18](Images/G18.png)
+![G18](Images/G18.PNG)
 
 # G19
-![G19](Images/G19.png)
+![G19](Images/G19.PNG)
 
 # G20
-![G20](Images/G20.png)
+![G20](Images/G20.PNG)
 
 # G21
-![G21](Images/G21.png)
+![G21](Images/G21.PNG)
 
 # G22
-![G22](Images/G22.png)
+![G22](Images/G22.PNG)
 
 # G23
-![G23](Images/G23.png)
+![G23](Images/G23.PNG)
 
 # G24
-![G24](Images/G24.png)
+![G24](Images/G24.PNG)
 
 # G25
-![G25](Images/G25.png)
+![G25](Images/G25.PNG)
