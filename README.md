@@ -1,14 +1,11 @@
 # SOCOMCrossroadsReferences
 References to all buildings/blocking of the SOCOM map, Crossroads.
 
-# Blockout
-![Blockout](/Crossroads_Layout.png)
-
 # Camera References
 ![Camera References](/CameraPlacements.png)
 
 # Reference Images
-![A1](/Images/A1.png)
+![A1](Images/A1.PNG)
 ![A2](/Images/A2.png)
 ![A3](/Images/A3.png)
 ![A4](/Images/A4.png)
