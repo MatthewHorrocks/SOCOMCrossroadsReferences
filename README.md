@@ -5,7 +5,7 @@ References to all buildings/blocking of the SOCOM map, Crossroads.
 ![Camera References](/CameraPlacements.png)
 
 ## Table of Contents - Above Ground Level
-[A1](###a1) [A2](###a2) [A3](###a3) [A4](###a4) [A5](###a5) [A6](###a6) [A7](###a7)
+[A1](#a1) [A2](###a2) [A3](###a3) [A4](###a4) [A5](###a5) [A6](###a6) [A7](###a7)
 
 ## Table of Contents - Ground Level
 [G1](###g1) [G2](###g2) [G3](###g3) [G4](###g4) [G5](###g5) [G6](###g6) [G7](###g7) [G8](###g8) [G9](###g9) [G10](###g10)
@@ -14,7 +14,7 @@ References to all buildings/blocking of the SOCOM map, Crossroads.
 
 # Reference Images
 
-### A1
+# A1
 ![A1](Images/A1.PNG)
 
 ### A2
